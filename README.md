@@ -44,6 +44,17 @@
 
 ---
 
+## ⚠️ NOTICE
+
+**PasswordGod** is provided “as is” without warranty of any kind. Use it at your own risk.
+
+- 🔒 **Security Disclaimer:** While PasswordGod generates strong, random passwords, you remain responsible for how and where you store them.  
+- 🛡️ **No Liability:** The author and contributors are not liable for any loss, damage, or compromise resulting from the use of this software.  
+- 🔄 **Updates:** Always check for the latest version before using in production environments.  
+- 📧 **Contact:** Report security issues or vulnerabilities via [GitHub Issues](https://github.com/5a1r0x/PasswordGod/issues/new?assignees=&labels=security&template=security_issue.md) or email **syroxmodsofficial@gmail.com**.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!

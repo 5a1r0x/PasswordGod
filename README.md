@@ -1,6 +1,6 @@
 # 🔐 PasswordGod
 
-> A simple, secure and customizable password generator for the terminal
+> A simple, secure and customizable password generator for the terminal <br>
 > Developed by 5a1r0x
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)

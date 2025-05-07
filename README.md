@@ -36,8 +36,8 @@
 1. **Windows**
    ```bash
    python3 -m venv venv
-   source .\venv\Scripts\activate
-2. **Linux, MacOS**
+   .\venv\Scripts\activate
+2. **Linux**
    ```bash
    python3 -m venv venv
    source venv/bin/activate

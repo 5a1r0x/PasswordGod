@@ -44,7 +44,7 @@
 
 ---
 
-## ⚠️ NOTICE
+## 📢 Notice
 
 **PasswordGod** is provided “as is” without warranty of any kind. Use it at your own risk.
 

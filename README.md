@@ -41,3 +41,13 @@
    ```bash
    python3 -m venv venv
    source venv/bin/activate
+
+---
+
+## 🤝 Contributing
+
+```bash
+Contributions are welcome!
+Feel free to open an issue or submit a pull request.
+
+Please read CONTRIBUTING.md before contributing.

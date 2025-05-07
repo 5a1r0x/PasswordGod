@@ -33,7 +33,7 @@
 Run the script directly from the terminal:
 
 ```bash
-./passwordgod.py -l 16
+python passwordgod.py -h
 ```
 
 * `-l 16`: generates a password of length 16 characters
@@ -65,17 +65,17 @@ Run the script directly from the terminal:
 1. **Generate 3 passwords of 24 characters including symbols**:
 
    ```bash
-   ./passwordgod.py -l 24 -a 3 -s
+   python passwordgod.py -l 24 -a 3 -s
    ```
 2. **Generate 1 password of 12 characters, save to file and show verbose info**:
 
    ```bash
-   ./passwordgod.py -l 12 -f -v
+   python passwordgod.py -l 12 -f -v
    ```
 3. **Generate 10 passwords of 16 characters without symbols**:
 
    ```bash
-   ./passwordgod.py --length 16 --amount 10
+   python passwordgod.py --length 16 --amount 10
    ```
 
 ---

@@ -27,4 +27,17 @@
    cd PasswordGod
 2. **Install requirements**
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
+
+---
+
+## 💊 Virtual Environment
+
+1. **Windows**
+   ```bash
+   python3 -m venv venv
+   source .\venv\Scripts\activate
+2. **Linux, MacOS**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate

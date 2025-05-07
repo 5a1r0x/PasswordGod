@@ -11,12 +11,12 @@
 
 ## 🚀 Features
 
-- ✅ Generate **strong passwords** (12–100 characters)
+- ✅ Generate **strong passwords** 
 - ✅ Use **symbols** for increased security
 - ✅ Generate **multiple passwords** in one go
-- ✅ **Save to file** (`PasswordGod.txt`) automatically
+- ✅ **Save to file** automatically
 - ✅ Optional **verbose output**
-- ✅ Works on **Linux, macOS, Windows**
+- ✅ Works on **Linux, Windows, MacOS**
 
 ---
 

@@ -24,5 +24,8 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/passwordgod.git
-   cd passwordgod
+   git clone https://github.com/5a1r0x/PasswordGod.git
+   cd PasswordGod
+2. **Install requirements**
+   ```bash
+   pip install requirements.txt
